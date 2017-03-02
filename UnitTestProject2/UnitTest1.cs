@@ -92,8 +92,8 @@ namespace UnitTestProject2
             // 2 + 3
 
             var target = new Calculater();
-            int actual = target.Ways(4);
-            var expected = 7;
+            int actual = target.Ways(5);
+            var expected = 12;
 
             Assert.AreEqual(expected, actual);
 

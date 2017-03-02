@@ -3,3 +3,8 @@ c:\users\dream\documents\visual studio 2013\Projects\UnitTestProject2\ClassLibra
 c:\users\dream\documents\visual studio 2013\Projects\UnitTestProject2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
 c:\users\dream\documents\visual studio 2013\Projects\UnitTestProject2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 c:\users\dream\documents\visual studio 2013\Projects\UnitTestProject2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\dream\Documents\GitHub\basketball_game\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\dream\Documents\GitHub\basketball_game\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\dream\Documents\GitHub\basketball_game\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\dream\Documents\GitHub\basketball_game\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\dream\Documents\GitHub\basketball_game\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

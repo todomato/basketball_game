@@ -9,13 +9,13 @@ namespace ClassLibrary1
     {
         public int Ways(int n)
         {
-            if (n == 1)
+            if (n <= 2)
             {
                 return n;
             }
             else
             {
-                var r =  (n -1) + Ways(n - 1);
+                var r = Ways(n - 1) + Ways(n - 2) + 1;
                 return r;
             }
 

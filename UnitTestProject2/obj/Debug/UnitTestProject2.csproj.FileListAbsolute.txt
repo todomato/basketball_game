@@ -5,3 +5,10 @@ c:\users\dream\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestPr
 c:\users\dream\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
 c:\users\dream\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
 c:\users\dream\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\dream\Documents\GitHub\basketball_game\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\dream\Documents\GitHub\basketball_game\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\dream\Documents\GitHub\basketball_game\UnitTestProject2\bin\Debug\ClassLibrary1.dll
+C:\Users\dream\Documents\GitHub\basketball_game\UnitTestProject2\bin\Debug\ClassLibrary1.pdb
+C:\Users\dream\Documents\GitHub\basketball_game\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\dream\Documents\GitHub\basketball_game\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\dream\Documents\GitHub\basketball_game\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
