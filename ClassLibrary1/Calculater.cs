@@ -9,17 +9,18 @@ namespace ClassLibrary1
     {
         public int Ways(int n)
         {
-            if (n <= 2)
+            if (n == 0)
+            {
+                return 1;
+            }
+            else if (n <= 2)
             {
                 return n;
             }
             else
             {
-                var r = Ways(n - 1) + Ways(n - 2) + 1;
-                return r;
+                return Ways(n - 1) + Ways(n - 2) + Ways(n - 3);
             }
-
-
         }
     }
 }

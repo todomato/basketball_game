@@ -76,7 +76,7 @@ namespace UnitTestProject2
         }
 
         [TestMethod]
-        public void 五分十二種方法()
+        public void 五分十三種方法()
         {
             // 1 + 1 + 1 + 1 + 1
             // 2 + 1 + 1 + 1
@@ -88,12 +88,13 @@ namespace UnitTestProject2
             // 1 + 1 + 3
             // 2 + 2 + 1
             // 2 + 1 + 2
+            // 1 + 2 + 2
             // 3 + 2
             // 2 + 3
 
             var target = new Calculater();
             int actual = target.Ways(5);
-            var expected = 12;
+            var expected = 13;
 
             Assert.AreEqual(expected, actual);
 
